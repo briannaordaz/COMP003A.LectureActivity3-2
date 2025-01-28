@@ -1,4 +1,9 @@
-﻿namespace COMP003A.LectureActivity3_2;
+﻿//Author: Brianna Ordaz
+//Course: COMP-003A
+//Faculty: Jonathan Cruz
+//Purpose: Demonstrate iterative statements in C#
+
+namespace COMP003A.LectureActivity3_2;
 
 internal class Program
 {
@@ -49,6 +54,19 @@ internal class Program
             secondNumber = nextNumber; // update second number
             count++; //increment count
         } while (count < 10); //loop until count reaches 10
+        
+        //DIsplay favorite fruits in a collection using a foreach loop
+        //create an array of fruits | data structure preview 
+        string[] fruits = { "Apple", "Banana", "Pear", "Strawberry" };
+        
+        Console.WriteLine("\n");
+        //Display each fruit in the array 
+        Console.WriteLine("Your favorite fruits are:");
+        //loop through each fruit in the array
+        foreach (string fruit in fruits)
+        {
+            Console.WriteLine($"-{fruit}");
+        }
 
     }
 }
