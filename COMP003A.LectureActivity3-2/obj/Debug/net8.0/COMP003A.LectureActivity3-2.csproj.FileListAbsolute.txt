@@ -1,0 +1,14 @@
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/bin/Debug/net8.0/COMP003A.LectureActivity3-2
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/bin/Debug/net8.0/COMP003A.LectureActivity3-2.deps.json
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/bin/Debug/net8.0/COMP003A.LectureActivity3-2.runtimeconfig.json
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/bin/Debug/net8.0/COMP003A.LectureActivity3-2.dll
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/bin/Debug/net8.0/COMP003A.LectureActivity3-2.pdb
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/COMP003A.LectureActivity3-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/COMP003A.LectureActivity3-2.AssemblyInfoInputs.cache
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/COMP003A.LectureActivity3-2.AssemblyInfo.cs
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/COMP003A.LectureActivity3-2.csproj.CoreCompileInputs.cache
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/COMP003A.LectureActivity3-2.dll
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/refint/COMP003A.LectureActivity3-2.dll
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/COMP003A.LectureActivity3-2.pdb
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/COMP003A.LectureActivity3-2.genruntimeconfig.cache
+/Users/brianna/RiderProjects/COMP003A.LectureActivity3-2/COMP003A.LectureActivity3-2/obj/Debug/net8.0/ref/COMP003A.LectureActivity3-2.dll
