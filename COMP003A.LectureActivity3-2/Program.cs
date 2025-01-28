@@ -22,6 +22,18 @@ internal class Program
             //display the multiplication table
             Console.WriteLine($"{i} * {num} = {i * num}");
         }
+        
+        //Display table in reverse using a while loop
+        Console.WriteLine("\nReversed Multiplication Table:");
+        int reverse = 10; //start at 10
+        //loop to generate the multiplication table in reverse
+        while (reverse > 0)
+        {
+            //display the multiplication table in reverse
+            Console.WriteLine($"{reverse} * {reverse} = {reverse * num}");
+            //decrement reverse
+            reverse--;
+        }
 
     }
 }
